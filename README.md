@@ -1,4 +1,4 @@
-# iot-arduino-blinky1
+# iot-arduino-blinky2WithDebugger
 
 Target system: Arduino Uno
 
