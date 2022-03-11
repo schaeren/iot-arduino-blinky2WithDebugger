@@ -10,4 +10,4 @@ Required VS Code extensions:
 Optional VS Code extensions:
 - C/C++
 
-See allso: https://www.schaerens.ch/iot-arduino-vscode-platformio-debugging
+See allso: https://www.schaerens.ch/arduino-development-with-visual-studio-code-and-platformio-debugging
