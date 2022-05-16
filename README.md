@@ -1,6 +1,6 @@
 # iot-arduino-blinky2WithDebugger
 
-How to use Visual Studio Code / PlatformIO debugger Arduino UNO. 
+Introduction to Visual Studio Code / PlatformIO debugger with Arduino UNO. 
 
 Target system: Arduino Uno
 
